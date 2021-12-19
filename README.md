@@ -27,7 +27,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauPie74&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauPie74&hide=jupyter%20notebook,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 PauPie74/PauPie74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
