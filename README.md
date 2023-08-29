@@ -31,7 +31,7 @@
 
 <br/>
 
-<img src="https://www.codewars.com/users/PauPie74/badges/large.svg">
+<img src="https://www.codewars.com/users/PauPie74/badges/large">
 
 <!---
 PauPie74/PauPie74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
