@@ -4,7 +4,7 @@
 
 :earth_africa: I am from Poland
 
-:mortar_board: NLP student
+:mortar_board: NLP graduate
 
 :computer: Learning programming
 
