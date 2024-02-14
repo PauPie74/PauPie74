@@ -6,6 +6,8 @@ I'm proficient in Python, HTML, CSS, JavaScript and SQL. My primary focus lies i
 
 Apart from coding, I have a keen interest in linguistics, computational linguistics and natural language processing (NLP). I'm fascinated by the intersection of technology and language, and I'm always exploring ways to apply my knowledge in these areas to create innovative solutions.
 
+Drawing from my background in art history and design, I approach website development with a keen eye for visual composition, color theory, and user experience. This allows me to create engaging and visually stunning websites that resonate with users on both functional and emotional levels.
+
 ## My tech stack
 <p align="center">
   <a href="https://skillicons.dev">
