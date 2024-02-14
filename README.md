@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hello world!
 
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast with a strong background in programming and linguistics. I'm always eager to collaborate on exciting projects, learn new technologies, and contribute to the open-source community.
 
