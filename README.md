@@ -1,37 +1,32 @@
-# 👋 Hi, I’m @PauPie74
+# 👋 Hello there!
 
-:star: My name is Paulina
+Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast with a strong background in programming and linguistics. I'm always eager to collaborate on exciting projects, learn new technologies, and contribute to the open-source community.
 
-:earth_africa: I am from Poland
+I'm proficient in Python, HTML, CSS, JavaScript and SQL. My primary focus lies in the areas of web development, data analysis, and machine learning. I'm also interested in exploring new technologies and frameworks to enhance my skills and broaden my knowledge.
 
-:mortar_board: NLP graduate
+Apart from coding, I have a keen interest in linguistics, computational linguistics and natural language processing (NLP). I'm fascinated by the intersection of technology and language, and I'm always exploring ways to apply my knowledge in these areas to create innovative solutions.
 
-:computer: Learning programming
+## My tech stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,postgres,r,php" /></br>
+    <img src="https://skillicons.dev/icons?i=git,vim,anaconda,md,regex,tensorflow,wordpress" /></br>
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,latex" />
+  </a></p>
 
-## Languages and tools
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="AE" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/aftereffects/aftereffects-original.svg" />
-<img align="left" alt="PS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="PP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/premierepro/premierepro-original.svg" />
+## My stats
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/anuraghazra/github-readme-stats)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauPie74&hide=jupyter%20notebook,scss&layout=compact&theme=radical" />
+  </a>
+</p>
 
-<br />
-<br />
-<br />
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/anuraghazra/github-readme-stats)">
+    <img src="https://www.codewars.com/users/PauPie74/badges/large" />
+  </a>
+</p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauPie74&hide=jupyter%20notebook,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-<img src="https://www.codewars.com/users/PauPie74/badges/large">
 
 <!---
 PauPie74/PauPie74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
